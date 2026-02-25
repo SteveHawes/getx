@@ -75,6 +75,10 @@ captures/
 !.vscode/launch.json
 !.vscode/extensions.json
 
+# VS Code extension specific files
+.history/
+
+
 example/macos/Flutter/ephemeral/Flutter-Generated.xcconfig
 
 example/macos/Flutter/ephemeral/
